@@ -1,9 +1,9 @@
 **FAQ**
-- **q: What is 'Slice'?**
-- a: Slice helps people share their own cooked food with others. The service is free of cost for use. A simple exchange looks like this: Person 'Emma' will make a post on 'Slice' about a meal she/he is going to cook. Another person Bob order this meal, and is allotted a time slot for pickup of meal. Slice is a donation based food exchange service. Meaning, at the time of pickup, Emma will take a donation of pre-mentioned amount from Bob.
+- **q: What is *Slice*?**
+- a: Slice helps people share their own cooked food with others. The service is free of cost for use. A simple exchange looks like this: Person *Emma* will make a post on *Slice* about a meal she/he is going to cook. Another person *Bob* orders this meal, and is allotted a time slot for pickup of meal. *Slice* is a donation based food exchange service. Meaning, at the time of pickup, *Emma* will take a donation of pre-mentioned amount from Bob.
 
 - **q: How can I order a meal?**
-- a: On the search page, add your home or office location, desired date and time, and search for a meal. Place an order for a meal you like. After the order has been placed, the contact details of the chef would be shared with you. It's upto you two to decide the pickup point and time.
+- a: On the search page, enter your home or office location, desired date and time, and search for a meal. Place an order for a meal you like. After the order has been placed, the contact details of the chef would be shared with you. It's upto you two to decide the pickup point and time.
 
 - **q: How can I add a meal and become a CHEF?**
 - a: Go to the CHEF's page, add the pickup location you desire (usually your home or office), add the desired pickup time for the consumer. 
