@@ -13,6 +13,9 @@
 - **q: How to pack the meal?**
 - a: You can order use and throw meal containers available on Amazon: [US](https://www.amazon.com/gp/search?ie=UTF8&tag=dsquare-20&linkCode=ur2&linkId=542dea51444b9da8476466c0e0bf9dbf&camp=1789&creative=9325&index=aps&keywords=use%20and%20throw%20lunch%20boxes)/[Canada](https://www.amazon.ca/gp/search?ie=UTF8&tag=dsquare-20&linkCode=ur2&linkId=542dea51444b9da8476466c0e0bf9dbf&camp=1789&creative=9325&index=aps&keywords=use%20and%20throw%20lunch%20boxes)
 
+- **q: How do I pay/get paid?**
+- a: As of now, the only way to do this is old-fashioned cash exchange. Use venmo or other services at your comfort.
+
 - **q: Is it legal to sell homemade food online?**
 - a: Slice ask you to follow a donation based approach. Instead of selling your food to others, consider it as a voluntary service to them,
 while the receiving party donates a desired amount to you.
@@ -25,4 +28,4 @@ Certain states do allow selling your homemade recipes online. You should check w
 - a: Please report this to Slice. We will take steps from our side to prevent this from happening again in future. 
 
 - **q: How to contact us?**
-- a: Write to us at dsquarecorp90@gmail.com.
+- a: Write to us at dsquarecorp90@gmail.com
