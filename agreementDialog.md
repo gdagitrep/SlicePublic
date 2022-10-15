@@ -1,0 +1,2 @@
+
+I understand that the producer of this meal may or may not have license to cook and sell meals. I understand that Katr is just connecting us, and is not responsible for the quality of food, or the permission for selling food, or any other issue related to buy or sell of food. This food may be harmful for my health or could lead to serious issues. I take responsibility to enquire about these details by myself while buying food from the seller.
